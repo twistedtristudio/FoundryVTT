@@ -23,7 +23,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "17",
         "18",
         "19",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       bumpMaps: [
        // "modules/ExtraLife_dice/images/nat1_BUMP.png"
@@ -46,7 +46,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         ,
         ,
         ,
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d20");
@@ -55,11 +55,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       type: "d2",
       labels: [
         "†",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       bumpMaps: [
         ,
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d2");
@@ -70,7 +70,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "†",
         "2",
         "3",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d4");
@@ -83,7 +83,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "3",
         "4",
         "5",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d6");
@@ -98,7 +98,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "5",
         "6",
         "7",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d8");
@@ -115,7 +115,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "7",
         "8",
         "9",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife" 
     },"d10");
@@ -134,7 +134,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "9",
         "10",
         "11",
-        "modules/extralife_dice/images/EL_wings.svg"
+        "modules/extralife_dice/images/EL_wings.png"
       ],
       system: "ExtraLife"
     },"d12");
@@ -151,7 +151,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "70",
         "80",
         "90",
-        "modules/extralife_dice/images/EL_wings.svg",
+        "modules/extralife_dice/images/EL_wings.png",
       ],
       system: "ExtraLife"
     },"d100");
