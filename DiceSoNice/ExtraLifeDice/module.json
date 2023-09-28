@@ -28,6 +28,6 @@
       "minimum": "0.7.9",
       "verified": "11.309"
     },
-    "manifest": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.5/module.json",
-    "download": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.5/extralifedice.zip"
+    "manifest": "https://github.com/twistedtristudio/FoundryVTT/releases/download/latest/module.json",
+    "download": "https://github.com/twistedtristudio/FoundryVTT/releases/download/latest/extralifedice.zip"
   }
