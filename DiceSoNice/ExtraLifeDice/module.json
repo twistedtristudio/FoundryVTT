@@ -27,7 +27,7 @@
     "compatibility": {
       "minimum": "0.7.9",
       "verified": "11.309"
-    }
-    //"manifest": "https://php.arkadnd.site/fvttmoduli/extralife/dice/module.json",
-    //"download": "https://php.arkadnd.site/fvttmoduli/extralife/dice/wikirole_dice.zip"
+    },
+    "manifest": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.1/module.json",
+    "download": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.1/extralifedice.zip"
   }
