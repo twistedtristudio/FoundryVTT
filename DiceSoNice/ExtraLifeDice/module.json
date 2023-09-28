@@ -1,7 +1,7 @@
 {
     "title": "Extra Life for Dice So Nice",
     "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "authors": [
       {
         "name": "TwistedTri",
@@ -28,6 +28,6 @@
       "minimum": "0.7.9",
       "verified": "11.309"
     },
-    "manifest": "https://github.com/twistedtristudio/FoundryVTT/releases/download/latest/module.json",
-    "download": "https://github.com/twistedtristudio/FoundryVTT/releases/download/latest/extralifedice.zip"
+    "manifest": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.4/module.json",
+    "download": "https://github.com/twistedtristudio/FoundryVTT/releases/download/0.0.4/extralifedice.zip"
   }
